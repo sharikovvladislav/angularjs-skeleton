@@ -1,0 +1,15 @@
+{
+  "name": "angularjs-vshar-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladislav.Sharikov",
+  "license": "MIT"
+}
