@@ -9,4 +9,8 @@ Install
 ```
 git clone https://github.com/sharikovvladislav/angularjs-skeleton.git
 ```
-2. Run `npm install`
+2. Install dependencies:
+
+```
+npm install
+```
