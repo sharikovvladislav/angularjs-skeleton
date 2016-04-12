@@ -14,3 +14,4 @@ git clone https://github.com/sharikovvladislav/angularjs-skeleton.git
 ```
 npm install
 ```
+3. Open `public/index.html` in your browser
