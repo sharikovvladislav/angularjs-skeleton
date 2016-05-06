@@ -4,14 +4,17 @@ Mini AngularJS Skeleton App
 This skeleton is very small AngularJS application
 
 Install
+=
+Clone repository:
 ===
-1. Clone repository:
 ```
 git clone https://github.com/sharikovvladislav/angularjs-skeleton.git
 ```
-2. Install dependencies:
+Install dependencies:
+===
 
 ```
 npm install
 ```
-3. Open `public/index.html` in your browser
+Open `public/index.html` in your browser
+===
